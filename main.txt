@@ -1,5 +1,4 @@
  completely new text
  
 
- 
-added new line
+ deleted the new line
